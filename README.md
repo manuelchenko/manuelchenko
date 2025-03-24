@@ -1,8 +1,8 @@
 - 👋 Hola, soy Jose Manuel
 - 👀 Estoy interesado en el mundo de la programación
-- 🌱 Actualmente estoy aprediendo Desarrollo WEB...
-- 💞️ Busco colaborar en proyectos donde pueda poner en práctica lo aprendido ...
-- 📫 Mi correo es manuellchenko@gmail.com ...
+- 🌱 Actualmente estoy aprediendo Ciencias de Datos e Inteligencia Artificial
+- 💞️ Busco colaborar en proyectos donde pueda poner en práctica lo aprendido
+- 📫 Mi correo es manuellchenko@gmail.com
 
 <!---
 manuelchenko/manuelchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
